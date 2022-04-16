@@ -1,0 +1,16 @@
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.exe
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.deps.json
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.runtimeconfig.json
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.runtimeconfig.dev.json
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.dll
+D:\NetProjects\Console_Encoder\bin\Debug\net5.0\Console_Encoder.pdb
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.csproj.AssemblyReference.cache
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.AssemblyInfoInputs.cache
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.AssemblyInfo.cs
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.csproj.CoreCompileInputs.cache
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.dll
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\refint\Console_Encoder.dll
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.pdb
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\Console_Encoder.genruntimeconfig.cache
+D:\NetProjects\Console_Encoder\obj\Debug\net5.0\ref\Console_Encoder.dll
